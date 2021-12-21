@@ -16,3 +16,5 @@ def sonar(path : str) :
         boolean = True
 
     return cpt
+
+print(sonar("input"))
